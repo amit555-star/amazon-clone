@@ -5,6 +5,7 @@
 }
 
 body {
+	max-width: 1700px;
 	min-width: 1000px;
   	overflow-x: auto;
 	margin: 0 auto;
